@@ -243,13 +243,13 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
                     
                     <th class="titulotabla">Fruta</th>
 		    
-                    <th class="titulotabla">Energía (Calorías)
+                    <th class="titulotabla">Energía (Calorías)</th>
 		    
-                    <th class="titulotabla">Proteínas (Gramos)
+                    <th class="titulotabla">Proteínas (Gramos)</th>
 		    
-                    <th class="titulotabla">Carbohidratos (Gramos)
+                    <th class="titulotabla">Carbohidratos (Gramos)</th>
 		    
-                    <th class="titulotabla">Lípidos (Gramos)
+                    <th class="titulotabla">Lípidos (Gramos)</th>
 		    
                     <th class="titulotabla">Fibra (Gramos)
 		    
@@ -263,95 +263,95 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
             	<tr>
 
-            		<td id="tablaplatano">Plátano
-            		<td>91
-            		<td>1
-            		<td>23.4
-            		<td>0.5
-            		<td>1.6
+            		<td id="tablaplatano">Plátano</td>
+            		<td>91</td>
+            		<td>1</td>
+            		<td>23.4</td>
+            		<td>0.5</td>
+            		<td>1.6</td>
 </tr>
             	
             	<tr>
 
-            		<td id="tablauva">Uvas
-            		<td>63
-            		<td>0.6
-            		<td>17.2
-            		<td>0.4
-            		<td>1.6
+            		<td id="tablauva">Uvas</td>
+            		<td>63</td>
+            		<td>0.6</td>
+            		<td>17.2</td>
+            		<td>0.4</td>
+            		<td>1.6</td>
 
             	</tr>
 
             	<tr>
 
-            		<td id="tablacereza">Cerezas
-            		<td>72
-            		<td>1.2
-            		<td>16.6
-            		<td>1
-            		<td>1.5
+            		<td id="tablacereza">Cerezas</td>
+            		<td>72</td>
+            		<td>1.2</td>
+            		<td>16.6</td>
+            		<td>1</td>
+            		<td>1.5</td>
 </tr>
             
             	<tr>
 
-            		<td id="tablamanzana">Manzana
-            		<td>59
-            		<td>0.2
-            	    <td>15.2
-            		<td>0.4
-            		<td>2.4
+            		<td id="tablamanzana">Manzana</td>
+            		<td>59</td>
+            		<td>0.2</td>
+            	    <td>15.2</td>
+            		<td>0.4</td>
+            		<td>2.4</td>
 </tr>
             
             	<tr>
 
-            		<td id="tablapera">Pera
-            		<td>59
-            		<td>0.4
-            		<td>15.1
-            		<td>0.4
-            		<td>3.8
+            		<td id="tablapera">Pera</td>
+            		<td>59</td>
+            		<td>0.4</td>
+            		<td>15.1</td>
+            		<td>0.4</td>
+            		<td>3.8</td>
 
             	</tr>
 
             	<tr>
 
-            		<td id="tablapiña">Piña
-            		<td>49
-            		<td>0.4
-            		<td>12.4
-            		<td>0.4
-            		<td>1.2
+            		<td id="tablapiña">Piña</td>
+            		<td>49</td>
+            		<td>0.4</td>
+            		<td>12.4</td>
+            		<td>0.4</td>
+            		<td>1.2</td>
 </tr
     
             	<tr>
 
-            		<td id="tablanaranja">Naranja
-            		<td>47
-            		<td>0.9
-            		<td>11.8
-            		<td>0.1
-            		<td>2.1
+            		<td id="tablanaranja">Naranja</td>
+            		<td>47</td>
+            		<td>0.9</td>
+            		<td>11.8</td>
+            		<td>0.1</td>
+            		<td>2.1</td>
 </tr>
 
                         	<tr>
 
-            		<td id="tablalimon">Limón
-            	    <td>29
-            		<td>1.1
-            		<td>9.3
-            		<td>0.3
-            		<td>2.1
+            		<td id="tablalimon">Limón</td>
+            	    <td>29</td>
+            		<td>1.1</td>
+            		<td>9.3</td>
+            		<td>0.3</td>
+            		<td>2.1</td>
 			
 			</tr>
 			
             	<tr>
 
-            		<td id="tablasandia">Sandía
-            		<td>32
-            		<td>0.6
-            		<td>7.2
-            		<td>0.4
-            		<td>0.3
+            		<td id="tablasandia">Sandía</td>
+            		<td>32</td>
+            		<td>0.6</td>
+            		<td>7.2</td>
+            		<td>0.4</td>
+            		<td>0.3</td>
 
             	</tr>
 </tbody>
