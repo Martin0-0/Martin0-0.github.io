@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="es">
 
 <head>
@@ -173,23 +171,24 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 <ul id="listadesordenada">
 
-	<li class="manzana">Manzanas<br></li><br>
+	<li class="manzana">Manzanas</li>
 		
-		<li id="pera">Peras<br></li><br>
+		<li id="pera">Peras</li>
 
-			<li id="melocoton">Melocotónes</li><br>
+			<li id="melocoton">Melocotónes</li>
 
-				<li id="piña">Piñas<br></li><br>
+				<li id="piña">Piñas<br></li>
 
-					<li class="uva">Uvas</li><br>
+					<li class="uva">Uvas</li>
 
-						<li id="ciruela">Ciruelas<br></li><br>
+						<li id="ciruela">Ciruelas<br></li>
 
-							<li id="mango">Mangos<br></li><br>
+							<li id="mango">Mangos<br></li>
 
-								<li class="limon">Limones<br></li><br>
+								<li class="limon">Limones<br></li>
 
 									<li class="banana">Bananas<br></li>
+									
 </ul>
 
 </div>
@@ -211,19 +210,19 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 <h3 id="lasfrutasmaspopulares" class="titulo">Aquí hay una lista de las frutas <strong>más vendidas</strong> en Estados Unidos durante el 2019:</h3>
 
 <ol id="listaordenada">
-	<li class="banana">Bananas</li><br>
+	<li class="banana">Bananas</li>
 
-	<li class="manzana">Manzanas</li><br>
+	<li class="manzana">Manzanas</li>
 
-	<li id="fresa">Fresas</li><br>
+	<li id="fresa">Fresas</li>
 
-	<li class="uva">Uvas</li><br>
+	<li class="uva">Uvas</li>
 
-	<li id="naranja">Naranjas</li><br>
+	<li id="naranja">Naranjas</li>
 
-	<li id="sandia">Sandías</li><br>
+	<li id="sandia">Sandías</li>
 
-	<li class="limon">Limones</li><br>
+	<li class="limon">Limones</li>
 
 	<li id="aguacate">Aguacates</li>
 
@@ -352,7 +351,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>0.3
 
             	</tr>
-
+</tbody>
             	</table>
 
  <h2 id="beneficios" class="titulo">Beneficios de consumir frutas</h2> 
@@ -471,7 +470,7 @@ la piña es madrina del piñón.
 
       <ol>
             <li><a href="http://juadvis14.blogspot.com/2015/06/fruta-de-grano-son-aquellas-frutas-que.html#:~:text=Aguacate%2C%20banano%20o%20pl%C3%A1tano%2C%20boroj%C3%B3,de%20%C3%A1rbol%2C%20uchuva%2C%20uva%20y">Frutas de grano</a></li>
-<br>
+
             <li><a href="https://es.wikipedia.org/wiki/Citrus">Cítricos</a></li>
             <br>
             <li><a href="https://es.wikipedia.org/wiki/Fruta_tropical#:~:text=Las%20frutas%20tropicales%20son%20a,de%20un%20h%C3%A1bitat%20en%20particular.">Exóticas</a></li>
