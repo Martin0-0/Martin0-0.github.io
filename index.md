@@ -269,9 +269,8 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>23.4
             		<td>0.5
             		<td>1.6
-
+</tr>
             	
-
             	<tr>
 
             		<td id="tablauva">Uvas
@@ -291,9 +290,8 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>16.6
             		<td>1
             		<td>1.5
-
+</tr>
             
-
             	<tr>
 
             		<td id="tablamanzana">Manzana
@@ -302,9 +300,8 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             	    <td>15.2
             		<td>0.4
             		<td>2.4
-
+</tr>
             
-
             	<tr>
 
             		<td id="tablapera">Pera
@@ -324,9 +321,8 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>12.4
             		<td>0.4
             		<td>1.2
-
-            	
-
+</tr
+    
             	<tr>
 
             		<td id="tablanaranja">Naranja
@@ -335,10 +331,9 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>11.8
             		<td>0.1
             		<td>2.1
+</tr>
 
-            
-
-            	<tr>
+                        	<tr>
 
             		<td id="tablalimon">Limón
             	    <td>29
@@ -346,9 +341,9 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>9.3
             		<td>0.3
             		<td>2.1
-
-            	
-
+			
+			</tr>
+			
             	<tr>
 
             		<td id="tablasandia">Sandía
