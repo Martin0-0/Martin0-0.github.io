@@ -243,15 +243,15 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
                     
                     <th class="titulotabla">Fruta</th>
 		    
-                    <th class="titulotabla">Energía (Calorías)</th>
+                    <th class="titulotabla">Energía (Calorías)
 		    
-                    <th class="titulotabla">Proteínas (Gramos)</th>
+                    <th class="titulotabla">Proteínas (Gramos)
 		    
-                    <th class="titulotabla">Carbohidratos (Gramos)</th>
+                    <th class="titulotabla">Carbohidratos (Gramos)
 		    
-                    <th class="titulotabla">Lípidos (Gramos)</th>
+                    <th class="titulotabla">Lípidos (Gramos)
 		    
-                    <th class="titulotabla">Fibra (Gramos)</th>
+                    <th class="titulotabla">Fibra (Gramos)
 
                 </tr>
             
