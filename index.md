@@ -135,8 +135,6 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 <body>
 
-<div class="body">
-
 <h1 class="titulo"><strong>Frutas</strong></h1>
 
 <img class="borde" src="https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-3foodgroups_fruits_detailfeature.jpg?sfvrsn=64942d53_4" width="500" alt="varias frutas">
@@ -191,10 +189,6 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 									
 </ol>
 
-</div>
-
-<div class="body">
-
 <h2 id="ejemplodefruta" class="titulo"><strong><em>Así</em></strong> se ve una manzana:</h2>
 
 <img class="borde" src="https://purepng.com/public/uploads/large/purepng.com-fresh-applefoodsweettastyhealthyfruitappleleaf-981524677946vfurf.png" width="400" alt="manzana roja">
@@ -228,8 +222,6 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 	<li id="aguacate">Aguacates</li>
 
 </ol>
-
-<div id="o">
 
 <h2 id="tablanutricionaldefrutas" class="titulo">Tabla Nutricional de Frutas</h2>
 
@@ -321,7 +313,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>12.4</td>
             		<td>0.4</td>
             		<td>1.2</td>
-</tr
+</tr>
     
             	<tr>
 
@@ -385,9 +377,9 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 <h3 class="subtitulo"> Para poder recordar mejor la cantidad de frutas que existen y cuales son, he aquí una canción infantil:</h3>
 
-<span id="lol">
-
 <p id="cancion1">
+
+<span id="lol">
 
 La familia de las frutas<br>
 <br>
@@ -461,9 +453,9 @@ Y la piña (¡Y la piña!) es madrina (¡es madrina!),<br>
 <br>
 la piña es madrina del piñón.
 
-</p>
-
 </span>
+
+</p>
 
 <img class="borde" src="https://image.sciencenorway.no/1438480.jpg?imageId=1438480&panow=0&panoh=0&panox=0&panoy=0&heightw=0&heighth=0&heightx=0&heighty=0&width=1200&height=630" width="500" alt="varias frutas">
 
@@ -489,8 +481,6 @@ la piña es madrina del piñón.
 <p class="vietnam"><em><a target="_blank" href="https://www.guiainfantil.com/articulos/ocio/canciones-infantiles/la-familia-de-las-frutas-cancion-de-los-payasos-para-ninos/"> Letra de la canción, familia de las frutas</a></em></p>  
 
 Esta página fue hecha por Martín Pinzón
-
-</div>
 
 </body>
 
