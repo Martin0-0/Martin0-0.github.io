@@ -143,7 +143,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 <h2 class="titulo">Contenidos</h2>
 
-<ol>
+<ul>
             
             <li><a href="#tiposdefrutas"> Tipos de Frutas</a></li>
             
@@ -159,7 +159,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
             <li><a href="#cancion"> Canción: La familia de las frutas</a></li>
 
-        </ol>
+        </ul>
 
 <h3 class="subtitulo">Las frutas son asombrosas, observa <em>por qué</em>:</h3>
 
@@ -169,7 +169,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 <h3 id="tiposdefrutas" class="subtitulo">Existen frutas como las:</h3>
 
-<ul id="listadesordenada">
+<ol id="listadesordenada">
 
 	<li class="manzana">Manzanas</li>
 		
@@ -189,7 +189,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 									<li class="banana">Bananas<br></li>
 									
-</ul>
+</ol>
 
 </div>
 
@@ -210,6 +210,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 <h3 id="lasfrutasmaspopulares" class="titulo">Aquí hay una lista de las frutas <strong>más vendidas</strong> en Estados Unidos durante el 2019:</h3>
 
 <ol id="listaordenada">
+	
 	<li class="banana">Bananas</li>
 
 	<li class="manzana">Manzanas</li>
