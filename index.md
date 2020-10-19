@@ -252,6 +252,8 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
                     <th class="titulotabla">Lípidos (Gramos)
 		    
                     <th class="titulotabla">Fibra (Gramos)
+		    
+		    </th>
 
                 </tr>
             
@@ -268,7 +270,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>0.5
             		<td>1.6
 
-            	</tr>
+            	
 
             	<tr>
 
@@ -290,7 +292,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>1
             		<td>1.5
 
-            	</tr>
+            
 
             	<tr>
 
@@ -301,7 +303,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>0.4
             		<td>2.4
 
-            	</tr>
+            
 
             	<tr>
 
@@ -323,7 +325,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>0.4
             		<td>1.2
 
-            	</tr>
+            	
 
             	<tr>
 
@@ -334,7 +336,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>0.1
             		<td>2.1
 
-            	</tr>
+            
 
             	<tr>
 
@@ -345,7 +347,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
             		<td>0.3
             		<td>2.1
 
-            	</tr>
+            	
 
             	<tr>
 
