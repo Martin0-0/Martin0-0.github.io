@@ -199,7 +199,7 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
 
 <img class="borde" src="https://purepng.com/public/uploads/large/purepng.com-fresh-applefoodsweettastyhealthyfruitappleleaf-981524677946vfurf.png" width="400" alt="manzana roja">
 
-<p class="parrafo">También es importante mencionar que existen diferentes variaciones y clases de las mismas frutas, <strong>por ejemplo,</strong>
+<p class="parrafo">También es importante mencionar que existen diferentes variaciones y clases de las mismas frutas, <strong>por ejemplo,</strong></p>
 
 	<h2 id="ejemplodevariacionenfrutas" class="titulo"><strong>Esta</strong> es una manzana <em>verde:</em></h2>
 
@@ -242,10 +242,15 @@ a:hover, a:active, a:focus {background-color: rgb(243, 255, 54);}
                 <tr>
                     
                     <th class="titulotabla">Fruta</th>
+		    
                     <th class="titulotabla">Energía (Calorías)</th>
+		    
                     <th class="titulotabla">Proteínas (Gramos)</th>
+		    
                     <th class="titulotabla">Carbohidratos (Gramos)</th>
+		    
                     <th class="titulotabla">Lípidos (Gramos)</th>
+		    
                     <th class="titulotabla">Fibra (Gramos)</th>
 
                 </tr>
@@ -473,7 +478,7 @@ la piña es madrina del piñón.
             <li><a href="http://juadvis14.blogspot.com/2015/06/fruta-de-grano-son-aquellas-frutas-que.html#:~:text=Aguacate%2C%20banano%20o%20pl%C3%A1tano%2C%20boroj%C3%B3,de%20%C3%A1rbol%2C%20uchuva%2C%20uva%20y">Frutas de grano</a></li>
 
             <li><a href="https://es.wikipedia.org/wiki/Citrus">Cítricos</a></li>
-            <br>
+            
             <li><a href="https://es.wikipedia.org/wiki/Fruta_tropical#:~:text=Las%20frutas%20tropicales%20son%20a,de%20un%20h%C3%A1bitat%20en%20particular.">Exóticas</a></li>
 
 </ol>
